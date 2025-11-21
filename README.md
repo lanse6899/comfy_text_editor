@@ -1,5 +1,7 @@
 # 🔵BB文本再次编辑
 
+<img width="687" height="485" alt="12312" src="https://github.com/user-attachments/assets/d386f3c1-a3c1-4a18-bfcf-026938f60a9e" />
+
 ComfyUI 文本编辑节点 - 在工作流中暂停、编辑文本，点击确认后继续运行
 
 ---
