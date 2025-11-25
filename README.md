@@ -2,6 +2,9 @@
 
 ComfyUI 文本编辑节点 - 在工作流中暂停、编辑文本，点击确认后继续运行
 
+<img width="1047" height="676" alt="ScreenShot_2025-11-25_140133_636" src="https://github.com/user-attachments/assets/d0077232-6825-4724-bde1-5157dc129e85" />
+
+
 ---
 
 ## 安装
